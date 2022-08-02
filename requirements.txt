@@ -17,7 +17,7 @@ idna==3.3
 MoodleTUI-common==0.0.2
 mypy-extensions==0.4.3
 nodeenv==1.6.0
-Nuitka==0.7.7
+Nuitka==0.9
 pathspec==0.9.0
 pathurl==0.5.0
 platformdirs==2.5.2
