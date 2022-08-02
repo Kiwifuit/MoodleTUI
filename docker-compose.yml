@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  moodletui:
+    image: moodletui
+    build:
+      context: .
+      dockerfile: ./Dockerfile
